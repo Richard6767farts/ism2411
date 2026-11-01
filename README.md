@@ -1,9 +1,9 @@
 # ISM2411 -- Python for Business
-# Richard Mahony
-# Fall 2026
-# Markum Reed
+Richard Mahony
+Fall 2026
+Markum Reed
 
-# this reposirtory contains my weekly lab submissions for ISM2411.
+This reposirtory contains my weekly lab submissions for ISM2411.
 # Each folder corresponds to one module
 - `week05/` — Conditionals: tiered discount calculator
 - `week06/` — Loops: sales report with sum, average, max
